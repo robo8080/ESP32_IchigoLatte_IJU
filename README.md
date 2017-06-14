@@ -17,6 +17,7 @@ IJUtilitiesをIchigoLatteにTCPで接続できるようにします。<br><br>
  2. ESP32にスケッチを書き込み後、シリアルモニタを開くとIPアドレスとポート番号が表示されるのでメモしておいて下さい。
  3. ESP32を起動し、HW VSP3でESP32のIPアドレスとポート番号をCOMポートに割り当ててESP32に接続します。
 ![画像3](images/image3.png)<br><br>
+![画像4](images/image4.png)<br><br>
  4. IJUtilitiesを起動し、HW VSP3で割り当てたCOMポートに接続します。
  5. 接続後IchigoLatteのBTNスイッチを押すと、IchigoLatteのシェルのプロンプトが表示されます。
 
